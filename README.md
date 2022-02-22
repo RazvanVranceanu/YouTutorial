@@ -16,4 +16,5 @@ This project allows the user to enter videos from the internet, from the "admin"
 ![Screenshot 2022-02-22 at 13 55 02](https://user-images.githubusercontent.com/100039479/155143459-c8ad5215-15e5-40ae-83f2-cef7887f0c52.jpg)
 ![Screenshot 2022-02-22 at 13 56 15](https://user-images.githubusercontent.com/100039479/155143472-1c00c8be-4d0e-492a-8db6-af20147afc09.jpg)
 
-
+## How to use
+Open the application in admin mode and enter videos in the database. In user mode, you can either select all the videos by all the presenters or select a specific creator whose videos to watch. The app will open the links one by one and you can add them to the watchlist if you wish to do so. The watchlist can be viewed in a CSV or HTML format.
